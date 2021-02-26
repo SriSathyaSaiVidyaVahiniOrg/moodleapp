@@ -1,10 +1,10 @@
 {
-  "name": "moodlemobile",
+  "name": "sssvvmobile",
   "version": "3.9.4",
-  "description": "The official app for Moodle.",
+  "description": "The official app for Sri Sathya Sai Vidya Vahini LMS.",
   "author": {
-    "name": "Moodle Pty Ltd.",
-    "email": "mobile@moodle.com"
+    "name": "Sri Sathya Sai Vidya Vahini team and Moodle team.",
+    "email": "sssvv@sssvv.org"
   },
   "config": {
     "ionic_webpack": "./config/webpack.config.js",
